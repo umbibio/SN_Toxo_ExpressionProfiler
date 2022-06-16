@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.rds
+SN_Toxo_ExpressionProfiler.Rproj
